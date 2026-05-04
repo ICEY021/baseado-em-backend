@@ -10,4 +10,6 @@ console.log(cardapio); //impresão dos valores informados
 const pedido = [];
 
 console.log(cardapio[0].nome);
+console.log(cardapio[1].preco);//preço da batata
+console.log(cardapio[2].categoria);//categoria do suco de laranja 
 
