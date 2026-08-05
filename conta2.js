@@ -4,7 +4,7 @@ function criarConta(titular, saldoInicial) {
     return {
         titular,
         depositar(valor ) {
-            if (valor <= 0 {
+            if (valor <= 0) {
                 console.log("Valor de depósito inválido");
             }
             saldo -= valor;
@@ -20,4 +20,4 @@ function criarConta(titular, saldoInicial) {
 
     contas[0].depositar(200);
 
-    contas.forEach(conta) => (console.log)(`contas.titular)
+    contas.forEach(conta) (console.log) (`contas.titular`)
